@@ -1,0 +1,1 @@
+# JavaScript-Variables-and-Prompt-windows
